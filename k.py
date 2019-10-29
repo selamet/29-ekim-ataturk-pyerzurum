@@ -16,12 +16,6 @@ def k():
         dizi[i][j] = 1
         j += 2
 
-    for i in range(20):
-        for j in range(20):
-            if dizi[i][j] == 1:
-                print('*', end='')
-            else:
-                print(' ', end='')
-        print('')
     return dizi
+
 
