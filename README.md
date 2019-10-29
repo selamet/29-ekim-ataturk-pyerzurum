@@ -10,4 +10,4 @@ pip3 install -r requirements.txt
 python3 ataturk.py   
 ```
 
-![](tty.gif)
+![](https://media.giphy.com/media/H6WWIaZECcsp71UITn/giphy.gif)
