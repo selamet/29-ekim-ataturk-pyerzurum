@@ -1,0 +1,1 @@
+# 29-ekim-ataturk-pyerzurum
